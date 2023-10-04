@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
-import warnings; warnings.filterwarnings('ignore')
+import warnings
+warnings.filterwarnings('ignore')
+
 import joblib as jb
 import streamlit as st
 
